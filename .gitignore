@@ -1,0 +1,4 @@
+build/
+dist/
+lat_month_inc.egg-info/
+*.pyc
